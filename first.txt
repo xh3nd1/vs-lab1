@@ -1,1 +1,1 @@
-new changes for conflict
+Изменение из ветки main для конфликта
